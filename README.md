@@ -17,7 +17,6 @@
   • Wrote and maintained REST APIs, and implemented test automation  
   • Improved accessibility, performance, and overall user experience  
   • Fixed critical bugs and refactored legacy code for scalability and maintainability  
-  • Provided code reviews and mentored peers across multiple projects  
   • Regularly contributed to open-source by addressing issues and building new features
 
 - 🌱 **Currently learning:** Next.js, TypeScript, Tailwind CSS, Advanced React Patterns
