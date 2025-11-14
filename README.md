@@ -105,10 +105,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilden&show_icons=true&locale=en" alt="swapnilden" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilden&" alt="swapnilden" /></p>
 
----
-
-> 🚩 **Note:** This summary covers some of my most recent and active contributions—I've contributed to over 100 issues and pull requests across diverse open source projects. For a more complete and up-to-date history, check out  
-> - [All PRs](https://github.com/pulls?q=is%3Apr+author%3ASwapnilden+sort%3Aupdated)  
-> - [All Issues](https://github.com/issues?q=author%3ASwapnilden+is%3Aissue&sort=updated&order=desc)
-
----
