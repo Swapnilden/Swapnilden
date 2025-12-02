@@ -101,9 +101,15 @@
 
 ### Stats & Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilden&show_icons=true&locale=en&layout=compact" alt="swapnilden" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-three-eosin-49.vercel.app/api?username=Swapnilden&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilden&show_icons=true&locale=en" alt="swapnilden" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-three-eosin-49.vercel.app/api/top-langs/?username=Swapnilden&layout=compact&theme=transparent&count_private=true" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilden&" alt="swapnilden" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Swapnilden&theme=transparent" alt="GitHub Streak" />
+</p>
 
