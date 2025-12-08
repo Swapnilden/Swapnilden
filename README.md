@@ -113,3 +113,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Swapnilden&theme=transparent" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🧩 Open Source Contributions
+
+![GitHub Contributors List](https://github-contributor-stats.vercel.app/api?username=Swapnilden&limit=5&theme=transparent&combine_all_yearly_contributions=true)
