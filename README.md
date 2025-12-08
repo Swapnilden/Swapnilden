@@ -115,6 +115,6 @@
 
 ---
 
-### 🧩 Open Source Contributions
-
-![GitHub Contributors List](https://github-contributor-stats.vercel.app/api?username=Swapnilden&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+> 🚩 **Note:** This summary covers some of my most recent and active contributions—I've contributed to over 100 issues and pull requests across diverse open source projects. For a more complete and up-to-date history, check out  
+> - [All PRs](https://github.com/pulls?q=is%3Apr+author%3ASwapnilden+sort%3Aupdated)  
+> - [All Issues](https://github.com/issues?q=author%3ASwapnilden+is%3Aissue&sort=updated&order=desc)
