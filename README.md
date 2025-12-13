@@ -5,10 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Swapnilden&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilden" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swapnilden" alt="swapnilden" />
-  </a>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=swapnilden&theme=algolia&no-bg=true&no-frame=true&column=7"
+    alt="GitHub Profile Trophy"
+  />
 </p>
 
 - ✨ **Recent work:**  
