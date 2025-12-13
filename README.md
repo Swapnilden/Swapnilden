@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=swapnilden&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilden" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilden" alt="swapnilden" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Swapnilden" alt="swapnilden" /></a> </p>
 
 - ✨ **Recent work:**  
   • Delivered modular web applications and UI libraries with React, Next.js, and TypeScript  
