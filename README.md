@@ -2,15 +2,10 @@
 <h3 align="center">Crafting Delightful Web Experiences, One Line of Code at a Time</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Swapnilden&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilden" />
+  <img src="https://komarev.com/ghpvc/?username=swapnilden&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilden" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=swapnilden&theme=algolia&no-bg=true&no-frame=true&column=7"
-    alt="GitHub Profile Trophy"
-  />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilden" alt="swapnilden" /></a> </p>
 
 - ✨ **Recent work:**  
   • Delivered modular web applications and UI libraries with React, Next.js, and TypeScript  
